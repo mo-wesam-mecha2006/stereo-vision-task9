@@ -9,4 +9,4 @@ Stereo depth estimation using OpenCV StereoBM.
 - Reconstructs a colored 3D point cloud and saves it as .ply
 
 ## Run
-python stereo_vision.py
+python stereo-vision-task9.py
